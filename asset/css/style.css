@@ -1,0 +1,24 @@
+.images {
+	display: inline-block;
+	margin: 10px;
+}
+
+.button {
+	margin: 5px;
+	background-color: #4E9CAF;
+}
+
+#add-gif {
+	margin-top: 5px;
+	display: block;
+    width: 100px;
+    height: 40px;
+    background: #4E9CAF;
+    padding: 7px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    cursor:pointer;
+}
+
